@@ -32,7 +32,7 @@
 <em>Fahrenheit para Kelvin</em>
 <br>
 
-<h4> Por enquanto a aplicação faz apenas essas conversões, mas no futura irei indo atualizando ela!</h4>
+<h4> Por enquanto a aplicação faz apenas essas conversões, mas no futuro irei atualizar ela!</h4>
 
 
 
