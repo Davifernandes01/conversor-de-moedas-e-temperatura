@@ -1,6 +1,7 @@
 <h1>Primeira aplicação em java!</h1>
 
 <h3>Nessa aplicação de conversão, você pode converter moedas como:</h3>
+<h5>OBS: VALORES DAS MOEDAS USADAS FOI EM RELAÇÃO AO DIA 26/08/2022!!</h5>
 
 <em>dolar para real</em>
 <br>
